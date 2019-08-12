@@ -1,0 +1,772 @@
+{
+  "settings": {
+    "name": "marri_net mobi3",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise3",
+      "styling": {
+        "primaryColor": "#c0a375",
+        "secondaryColor": "#3d8eb9",
+        "successColor": "#41a85f",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false,
+        "isRtl": false
+      },
+      "additionalSetColors": [
+        "#f5f5f5",
+        "#744a33",
+        "#825536"
+      ]
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "4.10.3",
+    "siteFonts": [],
+    "uniqCompNum": 16,
+    "versionPublish": "4.10.7",
+    "screenshot": "screenshot.png",
+    "favicon": "",
+    "noImageResize": "",
+    "google-analytics": "",
+    "gdpr": "",
+    "siteUrl": "undefined"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Марина Юсупова | Официальная страница",
+        "meta_descr": "Дипломированный психолог, коуч и учитель Кундалини Йоги. Работаю с людьми и с их изменениями в жизни более 10 лет.",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#000000!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_params": {
+            "logo": false,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#000000",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">Начало</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-w\">Обо мне</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box8-y\">Услуги</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials2-m\">Отзывы</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-o\">Контакты</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"tel:+79623240565\">Позвонить</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/yoga-pose-three-86856.ico",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">marrie_net</a>",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-6"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/bg2-1440x900.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": "0.6"
+          },
+          "title": "ИЗМЕНИ СВОЮ ЖИЗНЬ К ЛУЧШЕМУ",
+          "text": "<span style=\"font-style: normal;\">Привет! Давайте знакомиться! Меня зовут Марина Юсупова.&nbsp;Я дипломированный психолог, коуч и учитель Кундалини Йоги. Работаю с людьми и с их изменениями в жизни более 10 лет.<br></span>&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"index.html#form1-o\" data-toolbar=\"-mbrBtnMove\">Записаться на консультацию</a> ",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-7",
+          "_styles": {
+            ".mbr-section-lead": {
+              "font-size": "16px",
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+            },
+            ".mbr-section-lead SPAN": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            },
+            ".mbr-section-title": {
+              "font-size": "84px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            ".btn": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": "40",
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/zodewwuuehe-1400x1863.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Коротко обо мне",
+          "text": "<p>&nbsp;&nbsp;&nbsp;&nbsp;Еще в школе я поняла, что область психологии - это мое предназначение. И все, что происходило в дальнейшем в моей жизни - только подтверждало это! На моем опыте сотни людей менялись и превращались из \"гусениц в бабочки\". Росли как духовно, так и материально, попутно, решая свои текущие проблемы. И я рада помочь Вам и Всем людям, преодолеть свои барьеры в жизни, достать себя из череды неудач и проблем, и сделать Вашу жизнь гармоничной, осознанной и процветающей.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>Уже более 6 лет, я практикую Йогу. И это позволяет мне расширить свой опыт и повысить эффективность моей работы. Мои знания не только из \"книжки\", весь свой опыт я стараюсь прочувствовать и осознать. И также эти знания дают мне бонусы в работе. С помощью различных телесных и релаксационных практик - я могу расслабить вашу нервную систему, снять стресс на уровне тела. С помощью занятий йогой - мы можем проработать любой ваш блок в теле. Чтобы Вы стали легкими и счастливыми!<br> </p>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-w",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            },
+            "H3": {
+              "text-align": "left"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-size": "46px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/desert.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "УСЛУГИ",
+          "text": "<p>Article header with background image and parallax effect.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-y"
+        },
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#000"
+            },
+            ".lead": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-title": {
+              "color": "#000000",
+              "font-size": "36px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/desert.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f5f5f5",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Психологическое консультирование",
+          "text": "<p>Вы можете обратиться с проблемой, любого психологического характера и мы с вами сделаем все возможное, чтобы вы ее решили и вышли из этого тупика. И помните \"Проблем не существует, есть только задачи, а их необходимо решать!\"</p>",
+          "_tags": [
+            "Тема"
+          ],
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-d"
+        },
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#000"
+            },
+            ".mbr-section-title": {
+              "font-size": "30px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": true,
+            "paddingTop": "0",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/desert.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f5f5f5",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Стоимость: 55$",
+          "text": "<p>Время консультации: 60 минут</p>",
+          "_tags": [
+            "Тема"
+          ],
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"index.html#form1-o\" data-toolbar=\"-mbrBtnMove\">Заказать консультацию</a>",
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-c"
+        },
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#000"
+            },
+            ".mbr-section-title": {
+              "color": "#000000",
+              "font-size": "46px"
+            },
+            ".lead": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/desert.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Коучинг-сессии",
+          "text": "<p>Коучинг определяется как процесс, направленный на достижение целей в различных областях жизни. Если вы хотите поработать со своими целями и желаниями, то записывайтесь на Онлайн коучинг-сессии. На этих сессиях мы не работаем с вашим прошлым, мы работаем только с вашим настоящим и будущим. Ставим цели и задачи и идем к ним!</p>",
+          "_tags": [
+            "Тема"
+          ],
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SEE ALL TEMPLATES</a>",
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-e"
+        },
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#000"
+            },
+            ".mbr-section-title": {
+              "font-size": "30px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": true,
+            "paddingTop": "0",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/desert.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Стоимость: 45$",
+          "text": "<p>Время сессии: 60 минут</p>",
+          "_tags": [
+            "Тема"
+          ],
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"index.html#form1-o\" data-toolbar=\"-mbrBtnMove\">Заказать коучинг</a>",
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-f"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title DIV": {
+              "font-size": "46px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/desert.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "<div>КОУЧИНГ-СОПРОВОЖДЕНИЕ</div>",
+          "text": "<p>Это мои авторские программы, по которым я работаю с людьми. Программа рассчитана на 2 месяца нашей совместной работы.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-g"
+        },
+        {
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": 1,
+            "bgColor": "#ffffff"
+          },
+          "text1": "<p>Психологические консультации и коучинг-сессии; \n</p><p>Занятия Кундалини Йогой (это мощная практика для изменения вашего сознания и исцеления нервной системы); \n</p><p>Консультация по питанию и составление рациона (в сторону здоровых привычек). </p><p>Практики расслабления и снятия напряжения; \n</p><p>Обязательное домашние задание.&nbsp;</p>",
+          "text2": "<p>Программы по которым я сейчас работаю:\n</p><p>- Восстановление после беременности и родов;</p><p>- Очищение тела и подсознания;\n</p><p>- Панические атаки и страхи;</p><p>- Проблема похудения;</p><p>- Процветание и успех;</p><p>- Бесплодие;</p><p>- Любовь</p>",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-i",
+          "_styles": {
+            "DIV": {
+              "color": "#000000"
+            }
+          }
+        },
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#000"
+            },
+            ".mbr-section-title": {
+              "font-size": "36px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": true,
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/desert.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Стоимость: 450$",
+          "text": "<p>Продолжительность программы: 60 дней</p>",
+          "_tags": [
+            "Тема"
+          ],
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"index.html#form1-o\" data-toolbar=\"-mbrBtnMove\">Заказать сопровождение</a>",
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-j"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": false,
+            "showImages": true,
+            "showName": true,
+            "showBio": false,
+            "count": 3,
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/bg1-1440x900.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.3"
+          },
+          "title": "ОТЗЫВЫ",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "testimonial": [
+            {
+              "authorName": "Александра Главатских\n",
+              "authorBio": "User",
+              "text": "<p>Марина, хотела написать огромную благодарность тебе! После твоей программы коучинга я изменилась до неузнаваемости. Именно изменилась!! Я не думала, что такое возможно. Я всегда верила, что люди не меняются! Но нет! Оказываются, что меняются! Просто нужен опытный и знающий проводник к этим изменениям. И ты в роли проводника! У меня поменялся взгляд на многие вещи. Если раньше я не понимала как решить проблему- то сейчас я ее не вижу уже как проблему! Сейчас все так, как хочется мне! Я сама строю свою жизнь и меняю в ней все, как хочу. А тебе еще раз огромное спасибо, за то, что помогла мне это увидеть!</p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/face3.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              }
+            },
+            {
+              "authorName": "Анастасия л.",
+              "authorBio": "User",
+              "text": "<p>Сегодня впервые посетила класс Кундалини. Конечно было очень тяжело физически, но как и любая работа над собой - это колоссальный труд, который обязательно надо проделывать, чтобы стать лучше! Был и эмоциональный выплеск энергии - слезы, чего я не ожидала. Но на душе реально стало легче. Выйдя с занятия было настолько легко голове от мыслей, повседневных и наболевших проблем, в теле была приятная усталость и легкость. Полнейший Релакс и чувство кайфа от жизни! Огромное спасибо Марине за бесценный опыт и знания, которыми ты с нами делишься! А для тех, кто думает еще стоит ли пойти - однозначно да!</p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/face1.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              }
+            },
+            {
+              "authorName": "Мария Санина",
+              "authorBio": "User",
+              "text": "<p>Всю жизнь боялась обращаться к психологам! Но в моей жизни возникла такая ситуация, что я очень испугалась за свое состояние. И решила все таки обратиться за помощью. И ни разу не пожалела. Марина, хочу тебя поблагодарить, за наши консультации. Без тебя я бы не справилась. Советы близких - это совершенно не то, Это на уровне \"да не волнуйся - пройдет\"! А работа с психологом - это совершенно другое. И теперь я это поняла.</p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/face2.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              }
+            }
+          ],
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "testimonials2",
+          "_anchor": "testimonials2-m",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            },
+            ".card-footer > div": {
+              "color": "#efefef",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "14px"
+            },
+            ".card-block P": {
+              "font-size": "16px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showSubTitle": true,
+            "labelsColor": "#232323",
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Обратная связь",
+          "subtitle": "Вы можете связаться со мной по любому вопросу",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-success\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Отправить</a>",
+          "form": {
+            "action": "marin737@list.ru",
+            "alerts": {
+              "success": "Спасибо за Ваше сообщение! Я отвечу в ближайшее время :)"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Ваше имя"
+              },
+              "email": {
+                "visible": false,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Номер телефона"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Ваше сообщение"
+              }
+            }
+          },
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-o",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><i>а также позвонить самостоятельно, или написать на почту :)</i></p>",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-s",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "17px"
+            },
+            "DIV": {
+              "color": "#c1c1c1"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "font-size": "30px"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "+7 (962) 324 05 65\n",
+          "meta": "Телефон",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-p"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "font-size": "30px"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": "0",
+            "paddingBottom": "2",
+            "bgColor": "#fff"
+          },
+          "title": "marin737@list.ru\n",
+          "meta": "E-mail",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-q"
+        },
+        {
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "<b>marri_net 2019<br></b>Made by <b>dzibiz </b>with <a href=\"http://vk.me/dzibiz\" target=\"_blank\">love</a><br>",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-v"
+        }
+      ]
+    }
+  }
+}
